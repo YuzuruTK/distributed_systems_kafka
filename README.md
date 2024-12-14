@@ -1,15 +1,9 @@
-# Apache Kafka com Docker Compose
+# Apache Kafka
 
-Este projeto demonstra como configurar um cluster Apache Kafka com controladores e brokers utilizando Docker Compose. Você aprenderá a:
+Projeto feito para a matéria de Sistemas Distribuidos
 
-- Criar o ambiente (nós, partições, fator de replicação).
-- Utilizar produtores e consumidores em diversos cenários:
-  - Todos os nós ativos.
-  - Um nó desligado.
-  - Adicionar um novo nó.
-  - Consumir mensagens como um grupo.
+Dupla: Gabriel Bortoli Buron e Juan Paulo Fricke
 
----
 
 ## Pré-requisitos
 
